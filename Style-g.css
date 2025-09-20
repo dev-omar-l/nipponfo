@@ -1,0 +1,19 @@
+	
+	a {color: white;text-decoration:none}
+	#hoverable:hover {background-color:white;color:#C01C1C;border-bottom:solid #C01C1C 4px}
+	#hoverable {border-right:solid white 2px; border-left:solid white 2px; color:white}
+	#hoverable2:hover{background-color:white;color:#C01C1C;border-bottom:solid #C01C1C 4px}
+	#hoverable2 {border-left:solid white 2px}
+	#sel:hover {border:solid lightgrey 1px;}
+	#headers {color:#C01C1C}
+	#sub-headers {color:#7F7F7F}
+	#chameleon:hover {background-color:#FFE2E2;}
+	#chameleon {font-weight:bold;}
+	#forcenter{justify-content:center;display:flex}
+	#scrollable{height:100px;width:100%;overflow:scroll;border-style:solid;border-color:grey;border-width:1px;background-color:#272727}
+	#hoverable-g:hover{background-color:white;color:lightgrey;border-bottom:solid grey 4px}
+	#hoverable-g {border-left:solid white 2px}
+
+	/* Selection color */
+	::selection{background:#868686; color:white}
+	::-moz-selection {background:#868686;color:white;}
