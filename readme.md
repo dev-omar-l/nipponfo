@@ -3,3 +3,5 @@ Catalogue website showcasing the beauty and uniqueness of The Land Of The Rising
 Nippon (Japan) + Info = Nipponfo.
 
 <img src="./preview/preview-nipponfo.png">
+
+-23/12/2019
